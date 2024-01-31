@@ -122,7 +122,7 @@ typedef struct binary_tree_s heap_t;
 | **🌍** | **Print Array** | [**binary_tree_print.c**](./binary_tree_print.c) | [**void binary_tree_print(const binary_tree_t *tree)**](./binary_tree_print.c) |
 |   |   |   |   |
 |   |   |   |   |
-|   | <H3 align="center">MANDATORY TASKS</H3> |  |  |
+|   |   | <H3 align="center">MANDATORY TASKS</H3>  |  |
 |   |   |   |   |
 |   |   |   |   |
 | **0** | **New<br>node** | [**0-binary_tree_node.c**](./0-binary_tree_node.c) | [**binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);**](./0-binary_tree_node.c) |
@@ -146,7 +146,7 @@ typedef struct binary_tree_s heap_t;
 | **18** | **Uncle** | [**18-binary_tree_uncle.c**](./18-binary_tree_uncle.c) | [**binary_tree_t *binary_tree_uncle(binary_tree_t *node);**](./18-binary_tree_uncle.c) |
 |   |   |   |   |
 |   |   |   |   |
-|   | <H3 align="center">ADVANCED TASKS |  |  |
+|   |   | <H3 align="center">ADVANCED TASKS</H3>  |  |
 |   |   |   |  |
 |   |   |   |  |
 | **19** | **Lowest<br>common<br>ancestor** | [**100-binary_trees_ancestor.c**](./100-binary_trees_ancestor.c) | [**binary_tree_t *binary_trees_ancestor(const binary_tree_t *first, const binary_tree_t *second);**](./100-binary_trees_ancestor.c) |
