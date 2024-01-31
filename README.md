@@ -127,7 +127,7 @@ typedef struct binary_tree_s heap_t;
 |   |   |   |   |
 | **0** | **New<br>node** | [**0-binary_tree_node.c**](./0-binary_tree_node.c) | [**binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);**](./0-binary_tree_node.c) |
 | **1** | **Insert<br>left** | [**1-binary_tree_insert_left.c**](./1-binary_tree_insert_left.c) | [**binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value);**](./1-binary_tree_insert_left.c) |
-| **2** | **Insert<br>right** | [**2-selection_sort.c**](./2-binary_tree_insert_right.c) | [**binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value);**](./2-binary_tree_insert_right.c) |
+| **2** | **Insert<br>right** | [**2-binary_tree_insert_right.c**](./2-binary_tree_insert_right.c) | [**binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value);**](./2-binary_tree_insert_right.c) |
 | **3** | **Delete** | [**3-binary_tree_delete.c**](./3-binary_tree_delete.c) | [**void binary_tree_delete(binary_tree_t *tree);**](./3-binary_tree_delete.c) |
 | **4** | **Is<br>leaf** | [**4-binary_tree_is_leaf.c**](./4-binary_tree_is_leaf.c) | [**int binary_tree_is_leaf(const binary_tree_t *node);**](./4-binary_tree_is_leaf.c) |
 | **5** | **Is<br>root** | [**5-binary_tree_is_root.c**](./5-binary_tree_is_root.c) | [**int binary_tree_is_root(const binary_tree_t *node);**](./5-binary_tree_is_root.c) |
