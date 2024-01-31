@@ -386,7 +386,7 @@ typedef struct binary_tree_s heap_t;
 * All your <ins>**header files</ins>** should be <ins>**include guarded</ins>**
 
 <p align="center">
-  <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/204/020/datas/original.png" />
+  <img src="https://opendatastructures.org/ods-cpp/img4566.png" />
 </p>
 
 ##
