@@ -1,3 +1,15 @@
+/*
+ * File_name: 0-binary_tree_node.c
+ * Task_no: 0
+ * Task_Title: New node
+ * Functions: binary_tree_t *binary_tree_node
+ * Created: On January 31, 2024
+ * Author: Bereket Dereje Mekonnen
+ * GitHub repository: binary_trees
+ * Project Title: 0x1D. C - Binary trees
+ * Directory: binary_trees
+ */
+
 #include "binary_trees.h"
 
 /**
