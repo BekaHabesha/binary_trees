@@ -1,7 +1,7 @@
 /*
  * File_name: 16-binary_tree_is_perfect.c
  * Task_no: 16
- * Task_Title: 16. Is perfect 
+ * Task_Title: 16. Is perfect
  * Functions: unsigned char is_leaf, size_t depth,
  *            const binary_tree_t *get_leaf,
  *            int is_perfect_recursive,
