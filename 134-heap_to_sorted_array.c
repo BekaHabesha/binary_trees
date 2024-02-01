@@ -17,7 +17,9 @@
 /**
  * tree_size - measures the sum of heights
  *             of a binary tree
-
+ *
+ * Author: Bereket Dereje Mekonnen.
+ *
  * @tree: pointer to the root node of
  *        the tree to measure the height
  *
@@ -45,7 +47,9 @@ size_t tree_size(const binary_tree_t *tree)
 /**
  * heap_to_sorted_array - converts a Binary Max Heap
  *                        to a sorted array of integers
-
+ *
+ * Author: Bereket Dereje Mekonnen.
+ *
  * @heap: pointer to the root node
  *        of the heap to convert
  *
