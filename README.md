@@ -155,19 +155,19 @@ typedef struct binary_tree_s heap_t;
 | **22** | **Rotate<br>left** | [**103-binary_tree_rotate_left.c**](./103-binary_tree_rotate_left.c) | [**binary_tree_t *binary_tree_rotate_left(binary_tree_t *tree);**](./103-binary_tree_rotate_left.c) |
 | **23** | **Rotate<br>right** | [**104-binary_tree_rotate_right.c**](./104-binary_tree_rotate_right.c) | [**binary_tree_t *binary_tree_rotate_right(binary_tree_t *tree);**](./104-binary_tree_rotate_right.c) |
 | **24** | **Is<br>BST** | [**110-binary_tree_is_bst.c**](./110-binary_tree_is_bst.c) | [**int binary_tree_is_bst(const binary_tree_t *tree);**](./110-binary_tree_is_bst.c) |
-| **25** | **BST<br>-<br>Insert** | [**111-bst_insert.c**](./111-bst_insert.c) | [**bst_t *bst_insert(bst_t** __**tree, int value);__](./111-bst_insert.c) |
+| **25** | **BST<br>-<br>Insert** | [**111-bst_insert.c**](./111-bst_insert.c) | [__bst_t *bst_insert(bst_t__ __**tree, int value);__](./111-bst_insert.c) |
 | **26** | **BST<br>-Array<br>to BST** | [**112-array_to_bst.c**](./112-array_to_bst.c) | [**bst_t *array_to_bst(int *array, size_t size);**](./112-array_to_bst.c) |
 | **27** | **BST<br>-<br>Search** | [**113-bst_search.c**](./113-bst_search.c) | [**bst_t *bst_search(const bst_t *tree, int value);**](./113-bst_search.c) |
 | **28** | **BST<br>-<br>Remove** | [**114-bst_remove.c**](./114-bst_remove.c) | [**bst_t *bst_remove(bst_t *root, int value);**](./114-bst_remove.c) |
 | **29** | **Big<br>O<br>#BST** | [**115-O**](./115-O) |  |
 | **30** | **Is<br>AVL** | [**120-binary_tree_is_avl.c**](./120-binary_tree_is_avl.c) | [**int binary_tree_is_avl(const binary_tree_t *tree);**](./120-binary_tree_is_avl.c) |
-| **31** | **AVL<br>-<br>Insert** | [**121-avl_insert.c**](./121-avl_insert.c) | [**avl_t *avl_insert(avl_t** __**tree, int value);__](./121-avl_insert.c) |
+| **31** | **AVL<br>-<br>Insert** | [**121-avl_insert.c**](./121-avl_insert.c) | [__avl_t *avl_insert(avl_t__ __**tree, int value);__](./121-avl_insert.c) |
 | **32** | **AVL<br>-Array<br>to AVL** | [**122-array_to_avl.c**](./122-array_to_avl.c) | [**avl_t *array_to_avl(int *array, size_t size);**](./122-array_to_avl.c) |
 | **33** | **AVL<br>-<br>Remove** | [**123-avl_remove.c**](./123-avl_remove.c) | [**avl_t *avl_remove(avl_t *root, int value);**](./123-avl_remove.c) |
 | **34** | **AVL<br>-From<br>sorted<br>array** | [**124-sorted_array_to_avl.c**](./124-sorted_array_to_avl.c) | [**avl_t *sorted_array_to_avl(int *array, size_t size);**](./124-sorted_array_to_avl.c) |
 | **35** | **Big<br>O #AVL<br>Tree** | [**125-O**](./125-O) |  |
 | **36** | **Is<br>Binary<br>heap** | [**130-binary_tree_is_heap.c**](./130-binary_tree_is_heap.c) | [**int binary_tree_is_heap(const binary_tree_t *tree);**](./130-binary_tree_is_heap.c) |
-| **37** | **Heap<br>-<br>Insert** | [**131-heap_insert.c**](./131-heap_insert.c) | [**heap_t *heap_insert(heap_t** __**root, int value);__](./131-heap_insert.c) |
+| **37** | **Heap<br>-<br>Insert** | [**131-heap_insert.c**](./131-heap_insert.c) | [__heap_t *heap_insert(heap_t__ __**root, int value);__](./131-heap_insert.c) |
 | **38** | **Heap<br>- Array<br>to<br>Binary<br>Heap** | [**132-array_to_heap.c**](./132-array_to_heap.c) | [**heap_t *array_to_heap(int *array, size_t size);**](./132-array_to_heap.c) |
 | **39** | **Heap<br>-<br>Extract** | [**133-heap_extract.c**](./133-heap_extract.c) | [**int heap_extract(heap_t** __**root);__](./133-heap_extract.c) |
 | **40** | **Heap<br>-<br>Sort** | [**134-heap_to_sorted_array.c**](./134-heap_to_sorted_array.c) | [**int *heap_to_sorted_array(heap_t *heap, size_t *size);**](./134-heap_to_sorted_array.c) |
